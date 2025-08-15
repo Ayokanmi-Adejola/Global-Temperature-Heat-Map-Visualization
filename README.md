@@ -8,6 +8,7 @@ A sophisticated, interactive data visualization displaying global land-surface t
 ![React](https://img.shields.io/badge/React-18.3.1-61dafb)
 ![D3.js](https://img.shields.io/badge/D3.js-7.9.0-orange)
 
+<img width="1920" height="1540" alt="image" src="https://github.com/user-attachments/assets/4a2aa701-4b2a-4a13-b9d3-7eddb6fa9575" />
 
 
 ## ✨ Features
@@ -195,8 +196,6 @@ The project includes FreeCodeCamp's automated test suite:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please follow these steps:
-
 1. **Fork** the repository
 2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
 3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
@@ -217,5 +216,3 @@ We welcome contributions! Please follow these steps:
 - **D3.js Community**: For the powerful visualization library
 - **React Team**: For the excellent UI framework
 - **Tailwind CSS**: For the utility-first CSS framework
-
-# Global-Temperature-Heat-Map-Visualization
